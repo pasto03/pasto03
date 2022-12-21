@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasto03
-- 👀 I’m interested in computer science and technology
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Natural Language Processing
+- 🌱 I’m currently learning Deep Learning
 - 💞 I’m looking to collaborate on -
 - 📫 How to reach me -- chumaolaw@gmail.com
 
