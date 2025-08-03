@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben Law
-- 👀 I’m interested in Full-Stack and Reinforcement Learning
-- 🌱 I’m currently learning React
-- 💞 I’m looking to collaborate on any full-stack web dev or AI project
+- 👀 I’m interested in Full-Stack Mobile App / Web Development
+- 🌱 I’m currently learning AWS
+- 💞 I’m looking to collaborate on any full-stack web dev project
 - 📫 How to reach me -- chumaolaw@gmail.com
 
 <!---
